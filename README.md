@@ -1,6 +1,5 @@
 ## 🌸 Olá eu sou a Núbia Torres!
 
-- 🤯 Apaixonada por aprender coisas novas.
 - 👩🏻‍🎓 Formada como Técnica em Informática pelo CEFET-MG.
 - 👩🏻‍💻 Atualmente estou estudando **c#** e **.NET**.
 - 📫 Entre em contato comigo por **nubia.oliveiras06@gmail.com**.
