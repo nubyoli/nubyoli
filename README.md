@@ -1,4 +1,4 @@
-## 🌸 Olá eu sou a Núbia Torres!
+## 🌸 Olá eu sou a Núbia!
 
 - 👩🏻‍🎓 Formada como Técnica em Informática pelo CEFET-MG.
 - 👩🏻‍💻 Atualmente estou estudando **c#** e **.NET**.
